@@ -1,2 +1,24 @@
-# os_system
-Este projeto tem como objetivo desenvolver um sistema de gerenciamento de ordens de serviço, construído na poderosa stack Ruby, utilizando o framework Ruby on Rails e integrando-se ao banco de dados PostgreSQL.
+# README
+
+This README would normally document whatever steps are necessary to get the
+application up and running.
+
+Things you may want to cover:
+
+* Ruby version
+
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
